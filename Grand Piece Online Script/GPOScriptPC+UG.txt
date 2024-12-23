@@ -1,3 +1,4 @@
+-- FOR MOBILE USER ( ROKID )
 Code by Rokid Owners
 task.wait(30)
 getgenv().Level = 1
