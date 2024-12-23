@@ -8,4 +8,4 @@ Code by npdk
 getgenv().TargetLevel = 1 -- Đặt target level mặc định 
 getgenv().Delay = 5 -- Thời gian chờ giữa các lần kiểm tra (giây)
 -- Tải và thực thi script từ URL raw GitHub
-loadstring(game:HttpGet("https://raw.githubusercontent.com/npdk1/My-Obfuscate-Product/refs/heads/main/changeacc-gpo.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/npdk1/My-Obfuscate-Product/refs/heads/main/UGchangegpoByNPDKOBF.txt"))()
